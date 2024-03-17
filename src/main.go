@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/Daniilmipt/timer_golang/timer"
 	"time"
+
+	"./timer"
 )
 
 // main is the entry point of the program.
